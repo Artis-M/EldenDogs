@@ -1,6 +1,6 @@
 # Top Down Game for GMD
-#### [Link to game demo video] (https://youtu.be/tB4ODl9oW_I "Link to video demo") (YouTube)
-#### [Link to game trailer] (https://www.youtube.com/watch?v=VGPZRnXEnOs "Game trailer") (YouTube)
+#### [Link to game demo video (YouTube)](https://youtu.be/tB4ODl9oW_I "Link to game demo video (YouTube)")
+#### [Link to game trailer (YouTube)](https://www.youtube.com/watch?v=VGPZRnXEnOs "Link to game trailer (YouTube)")
 #### [Link to online demo](https://artis-m.github.io/EldenDogsOnline/ "Link to online demo")
 ##### PlasticSCM
 PlasticSCM was used as version control. Originally collaborate was used but it got depricated and automatically switched to PlasticSCM. Therefore there is no commit history in this repo as it is a copy of the project.
