@@ -16,6 +16,8 @@ Emails for each person are:
 -     https://assetstore.unity.com/packages/3d/props/ten-power-ups-217666
 -     https://assetstore.unity.com/packages/2d/gui/icons/basic-icons-139575#description
 -     https://assetstore.unity.com/packages/2d/gui/icons/coins-mega-pack-141998
+-     https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy-monster-skeleton-35635
+-     https://assetstore.unity.com/packages/3d/characters/creatures/fantasy-monster-wizard-demo-103037
 - [Sound effects from Freesound](https://freesound.org/ "Sound effects from Freesound")
 - Terrain textures made from photos
 
